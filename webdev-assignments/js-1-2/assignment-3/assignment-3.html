@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment 3</title>
+</head>
+<body>
+<h1>Sum, product and average</h1>
+<p id="target"></p>
+<script>
+    "use strict";
+    let number1 = prompt("Enter the first number:");
+    number1 = parseInt(number1);
+    let number2 = prompt("Enter the second number:");
+    number2 = parseInt(number2);
+    let number3 = prompt("Enter the third number:");
+    number3 = parseInt(number3);
+    let sum = number1 + number2 + number3;
+    let product = number1 * number2 * number3;
+    let average = sum / 3;
+    document.querySelector("#target").innerHTML = "Sum: " + sum + ", Product: " + product + ", Average: " + average;
+  </script>
+</body>
+</html>
