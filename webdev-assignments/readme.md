@@ -16,4 +16,13 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
 Add notes about any problems or extra features here.
 
 <!-- metropolia:progress:start -->
+
+## Completed exercises
+
+_This list is updated automatically by the Metropolia ICT extension._
+
+### JS modules 1 and 2: Interactive programs and control structures (1 / 30 points)
+
+- 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
+
 <!-- metropolia:progress:end -->
