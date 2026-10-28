@@ -21,13 +21,13 @@ Add notes about any problems or extra features here.
 
 _This list is updated automatically by the Metropolia ICT extension._
 
-### JS modules 1 and 2: Interactive programs and control structures (12 / 30 points)
+### JS modules 1 and 2: Interactive programs and control structures (15 / 30 points)
 
 - 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
 - 2. Greeting: ✔ completed, 2/2 test points (`js-1-2/assignment-2/assignment-2.js`)
 - 3. Sum, product and average: ✔ completed, 3/3 test points (`js-1-2/assignment-3/assignment-3.js`)
 - 4. Sorting hat: ✔ completed, 3/3 test points (`js-1-2/assignment-4/assignment-4.js`)
 - 5. Leap year: ✔ completed, 3/3 test points (`js-1-2/assignment-5/assignment-5.js`)
-- 6. Square root: ✘ not completed yet, 0/3 test points (`js-1-2/assignment-6/assignment-6.js`)
+- 6. Square root: ✔ completed, 3/3 test points (`js-1-2/assignment-6/assignment-6.js`)
 
 <!-- metropolia:progress:end -->
