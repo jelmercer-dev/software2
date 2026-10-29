@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment 8</title>
+</head>
+<body>
+<h1>Leap years in a list</h1>
+<ul id="target">
+
+</ul>
+<script>
+    "use strict";
+    const year = prompt("year1");
+    const year2 = prompt("year2");
+    for (let i = year; i <= year2; i++) {
+        if ((i % 4 === 0 && i % 100 !== 0) || (i % 400 === 0)) {
+            document.getElementById("target").innerHTML += "<li>" + i + "</li>";
+        }
+    }
+</script>
+</body>
+</html>
