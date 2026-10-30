@@ -25,7 +25,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 
 - 1. Company website: ◐ partially completed, 3/4 test points (`html-css/index.html`)
 
-### JS modules 1 and 2: Interactive programs and control structures (20 / 30 points)
+### JS modules 1 and 2: Interactive programs and control structures (22 / 30 points)
 
 - 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
 - 2. Greeting: ✔ completed, 2/2 test points (`js-1-2/assignment-2/assignment-2.js`)
@@ -35,5 +35,6 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 6. Square root: ✔ completed, 3/3 test points (`js-1-2/assignment-6/assignment-6.js`)
 - 7. Sum of dice: ✔ completed, 2/2 test points (`js-1-2/assignment-7/assignment-7.js`)
 - 8. Leap years in a list: ✔ completed, 3/3 test points (`js-1-2/assignment-8/assignment-8.js`)
+- 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 
 <!-- metropolia:progress:end -->

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment 9</title>
+</head>
+<body>
+<h1>Prime number</h1>
+<p id="target"></p>
+<script>
+    "use strict";
+    const number = parseInt(prompt("Number pls"));
+    if (number % 1 === 0 && number % number === 0 && number > 1) {
+        let prime = true;
+        for (let i = 2; i < number; i++) {
+            if (number % i === 0) {
+                prime = false;
+            }
+        }
+        if (prime === true) {
+            document.getElementById("target").innerHTML = number + " is a prime number.";
+        } else {
+            document.getElementById("target").innerHTML = number + " is not a prime number.";
+        }
+    } else {
+        document.getElementById("target").innerHTML = number + " is not a prime number.";
+    }
+</script>
+</body>
+</html>
