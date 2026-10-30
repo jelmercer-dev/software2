@@ -1,0 +1,29 @@
+.box-demo {
+  background-color: red;
+  display: flex;
+  justify-content: flex-end;  
+  align-items: flex-end;
+}
+
+
+.box-title {  
+  align-items: left;
+  text-align: left;
+  color: white;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.box {
+    text-align: right;
+  width: 200px;
+  height: 100px;
+  background-color: #4CAF50;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border: 2px solid #333;
+  box-sizing: border-box; /* Ensures padding and border are included in the width and height */
+}
+

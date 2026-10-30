@@ -21,6 +21,10 @@ Add notes about any problems or extra features here.
 
 _This list is updated automatically by the Metropolia ICT extension._
 
+### HTML and CSS: company website (3 / 7 points)
+
+- 1. Company website: ◐ partially completed, 3/4 test points (`html-css/index.html`)
+
 ### JS modules 1 and 2: Interactive programs and control structures (20 / 30 points)
 
 - 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
