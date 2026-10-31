@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment 10</title>
+</head>
+<body>
+<h1>Dice probability by simulation</h1>
+<p id="target"></p>
+  <script>
+    'use strict';
+    let dice = prompt("Number of dice to roll?");
+    let sum = parseInt(prompt("What sum are you looking for?"));
+
+    let repetitions = 0;
+    for (let i = 0; i< 10000; i++) {
+        let roll = 0;
+        for (let j = 0; j < dice; j++) {
+            roll += Math.floor(Math.random() * 6 + 1);
+            
+        }
+        if (roll === sum) {
+            repetitions++;
+        }
+    }
+    const probability = (repetitions / 10000) * 100;
+    document.querySelector("#target").innerHTML += "Probability to get sum " + sum + " with " + dice + " dice is " + probability.toFixed(2) + "%";
+  </script>
+</body>
+</html>
