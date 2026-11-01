@@ -27,6 +27,8 @@ body {
 }
 
 .box-home:hover {
+  padding: 51px;
+    text-decoration: none;
   border-radius: 20%;
   font-size: 50px;
     background-color: #010a02;
@@ -44,6 +46,7 @@ body {
 }
 
 .box-products:hover {
+    padding: 51px;
   border-radius: 50%;
   font-size: 50px;
     background-color: #0b1c2e;
@@ -60,6 +63,7 @@ body {
 }
 
 .box-contact:hover {
+    padding: 51px;
   border-radius: 100%;
   font-size: 50px;
     background-color: #1a0b0b;
