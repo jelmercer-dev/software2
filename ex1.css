@@ -1,0 +1,13 @@
+.greenbox{
+    background-color: green;
+    border: 1px solid rgb(103, 0, 151);
+    padding: 10px;
+    margin: 5px;
+}
+
+.div-blue {
+    background-color: aqua;
+    border: 1px solid rgb(103, 0, 151);
+    padding: 10px;
+    margin: 5px;
+}
