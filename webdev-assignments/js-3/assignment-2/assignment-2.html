@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment 2</title>
+</head>
+<body>
+<h1>Participants in alphabetical order</h1>
+<ol id="target"></ol>
+<script>
+    "use strict";
+    let number = prompt("How many participants are there?");
+    let participants = [];
+    for (let i = 0; i < number; i++) {
+        participants.push(prompt("Enter a participant's name: "));
+    }
+    participants.sort();
+    let ol = document.querySelector("#target");
+    for (let i = 0; i < participants.length; i++) {
+        let li = document.createElement("li");
+        ol.appendChild(li);
+        li.textContent = participants[i];
+    }
+</script>
+</body>
+</html>

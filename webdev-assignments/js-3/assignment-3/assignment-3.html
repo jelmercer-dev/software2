@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment 3</title>
+</head>
+<body>
+<h1>Dogs in reverse alphabetical order</h1>
+<ul id="target"></ul>
+<script>
+    "use strict";
+    let names = [];
+    for (let i = 0; i < 6; i++) {
+        names.push(prompt("Enter dog's name: "));
+    }
+    names.sort().reverse();
+    let ul = document.querySelector("#target");
+    for (let i = 0; i < names.length; i++) {
+        let li = document.createElement("li");
+        ul.appendChild(li);
+        li.textContent= names[i];
+    }
+
+    </script>
+</body>
+</html>

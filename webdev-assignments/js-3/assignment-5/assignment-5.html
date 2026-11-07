@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment 5</title>
+</head>
+<body>
+<h1>Stop at a repeated number</h1>
+<p>This program prints to the console: open the developer tools (F12) → Console.</p>
+<script>
+    "use strict";
+    let numbers = [];
+    while (true) {
+        let input = parseFloat(prompt("Enter a number: "));
+        if (numbers.includes(input)) {
+            alert("The number has already been given.");
+            break;
+        }
+        numbers.push(input);
+        numbers.sort((a, b) => a - b);
+    }
+    console.log(numbers);
+    </script>
+</body>
+</html>

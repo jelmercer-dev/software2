@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment 4</title>
+</head>
+<body>
+<h1>Largest first</h1>
+<p>This program prints to the console: open the developer tools (F12) → Console.</p>
+<script>
+    "use strict";
+    let numbers = [];
+    
+
+    while (!numbers.includes(0)) {
+        numbers.push(parseFloat(prompt("Enter a number: "))); 
+        numbers.sort((a, b)=> b -a);
+
+    }
+    console.log(numbers);
+    </script>
+</body>
+</html>
