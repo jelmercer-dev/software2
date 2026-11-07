@@ -21,8 +21,9 @@ Add notes about any problems or extra features here.
 
 _This list is updated automatically by the Metropolia ICT extension._
 
-### HTML and CSS: company website (0.5 / 3 points)
+### HTML and CSS: company website (3.5 / 7 points)
 
+- 1. Company website: ◐ partially completed, 3/4 test points (`html-css/index.html`)
 - 3. Publish, push and submit your links: ◐ partially completed, 0.5/3 test points
 
 ### JS modules 1 and 2: Interactive programs and control structures (28.75 / 30 points)
@@ -38,5 +39,9 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 - 10. Dice probability by simulation: ✔ completed, 5/5 test points (`js-1-2/assignment-10/assignment-10.js`)
 - 11. Publish, push and submit your links: ◐ partially completed, 1.75/3 test points
+
+### JS module 3: Arrays and functions (2 / 30 points)
+
+- 1. Numbers in reverse order: ✔ completed, 2/2 test points (`js-3/assignment-1/assignment-1.js`)
 
 <!-- metropolia:progress:end -->
