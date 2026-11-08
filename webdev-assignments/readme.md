@@ -40,7 +40,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 10. Dice probability by simulation: ✔ completed, 5/5 test points (`js-1-2/assignment-10/assignment-10.js`)
 - 11. Publish, push and submit your links: ◐ partially completed, 1.75/3 test points
 
-### JS module 3: Arrays and functions (28.5 / 30 points)
+### JS module 3: Arrays and functions (28.75 / 30 points)
 
 - 1. Numbers in reverse order: ✔ completed, 2/2 test points (`js-3/assignment-1/assignment-1.js`)
 - 2. Participants in alphabetical order: ✔ completed, 2/2 test points (`js-3/assignment-2/assignment-2.js`)
@@ -52,6 +52,6 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 8. Join strings without join(): ✔ completed, 2/2 test points (`js-3/assignment-8/assignment-8.js`)
 - 9. Even numbers into a new array: ✔ completed, 3/3 test points (`js-3/assignment-9/assignment-9.js`)
 - 10. Voting: ✔ completed, 8/8 test points (`js-3/assignment-10/assignment-10.js`)
-- 11. Publish, push and submit your links: ◐ partially completed, 1.5/3 test points
+- 11. Publish, push and submit your links: ◐ partially completed, 1.75/3 test points
 
 <!-- metropolia:progress:end -->

@@ -1,2 +1,2 @@
-https://github.com/jelmercer-dev/software2/tree/main/webdev-assignments
+https://github.com/jelmercer-dev/software2/tree/main/webdev-assignments/js-3
 https://users.metropolia.fi/~denyskh/js-3/
